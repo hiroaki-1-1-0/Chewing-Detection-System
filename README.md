@@ -1,5 +1,5 @@
-# Mastication-Support-System
-Mastication Support System by Hiroaki Ito
+# Chewing-Detection-System
+Chewing detection system
 
 ## コミットメッセージのprefix
 ```
