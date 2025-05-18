@@ -1,5 +1,4 @@
 # Chewing-Detection-System
-Chewing detection system
 
 ## コミットメッセージのprefix
 ```
